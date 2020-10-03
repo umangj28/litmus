@@ -56,7 +56,7 @@ const useStyles = makeStyles((theme: Theme) => ({
     },
   },
   listIcon: {
-    paddingLeft: theme.spacing(2),
+    paddingLeft: theme.spacing(3),
   },
   listText: {
     marginLeft: theme.spacing(0),
